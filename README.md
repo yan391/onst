@@ -1,4 +1,4 @@
-# [Toward Robust Online Self-Training for Source-Free Domain Adaptation in Semantic Segmentation]
+# [Prototypical Self-Training with Progress-Aware Update for Source-Free Domain Adaptation in Semantic Segmentation]
 
 The source code will be released upon acceptance of our paper. For authenticity, we provide our training logs and trained models here.
 
