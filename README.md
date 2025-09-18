@@ -1,6 +1,6 @@
 # [Prototypical Self-Training with Progress-Aware Update for Source-Free Domain Adaptation in Semantic Segmentation]
 
-The source code will be released upon acceptance of our paper. For authenticity, we provide our training logs and trained models here.
+The remaining core code will be released once our paper is accepted. To demonstrate the authenticity of our results, we provide part of the core code, training logs, and the trained segmentation model.
 
 ## Training logs and Trained models
 
