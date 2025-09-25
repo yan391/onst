@@ -1,4 +1,4 @@
-# [Prototypical Self-Training with Progress-Aware Update for Source-Free Domain Adaptation in Semantic Segmentation]
+# [Prototypical Self-Training with Progress-Aware Update for Source-Free Domain Adaptation in Semantic Segmentation] under review at ICASSP 2026
 
 The remaining core code will be released once our paper is accepted. To demonstrate the authenticity of our results, we provide part of the core code, training logs, and the trained segmentation model.
 
