@@ -3,7 +3,6 @@
 # Prototypical Self-Training with Progress-Aware Update for Source-Free Domain Adaptation in Semantic Segmentation
 
 [![ICASSP 2026](https://img.shields.io/badge/ICASSP%202026-Under%20Review-4b44ce)](http://2026.ieeeicassp.org/)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Pretrained Models](https://img.shields.io/badge/Models-Google%20Drive-orange)](https://drive.google.com/drive/folders/1CYooo-uTGEHzviT2smwlhHaXQCNimy2M?usp=sharing)
 
 </div>
